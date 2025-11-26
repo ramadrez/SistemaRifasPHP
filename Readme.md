@@ -121,61 +121,72 @@ Acceso exclusivo para administradores:
 
 ## 📸 Screenshots
 
+<div align="center">
+
+### Frontend Público
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🏠 Página Principal</h3>
       <img src="https://imgur.com/q6pblih.png" alt="Página Principal" width="100%" />
-      <p><em>Hero section, rifas destacadas y diseño responsive</em></p>
+      <b>🏠 Página Principal</b>
+      <p><em>Hero section y rifas destacadas</em></p>
     </td>
     <td align="center" width="33%">
-      <h3>🎰 Catálogo de Rifas</h3>
       <img src="https://imgur.com/qOOG0rK.png" alt="Catálogo de Rifas" width="100%" />
-      <p><em>Listado completo con filtros y búsqueda</em></p>
+      <b>🎰 Catálogo de Rifas</b>
+      <p><em>Filtros y búsqueda inteligente</em></p>
     </td>
     <td align="center" width="33%">
-      <h3>🎯 Detalle de Rifa</h3>
       <img src="https://imgur.com/EiJKLS5.png" alt="Detalle de Rifa" width="100%" />
-      <p><em>Selector de números y formulario de compra</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📊 Dashboard Admin</h3>
-      <img src="https://imgur.com/UhfDEt5.png" alt="Dashboard Administrativo" width="100%" />
-      <p><em>Estadísticas en tiempo real y métricas</em></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎪 Gestión de Rifas</h3>
-      <img src="https://imgur.com/ssQ24CB.png" alt="Gestión de Rifas" width="100%" />
-      <p><em>Creación, edición y control de rifas</em></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎫 Gestión de Tickets</h3>
-      <img src="https://imgur.com/aFa5lTc.png" alt="Gestión de Tickets" width="100%" />
-      <p><em>Verificación de pagos y comprobantes</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎲 Sistema de Sorteos</h3>
-      <img src="https://imgur.com/XTKk7fE.png" alt="Sistema de Sorteos" width="100%" />
-      <p><em>Configuración y animación de sorteos</em></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Configuración</h3>
-      <img src="https://imgur.com/gSWQVpr.png" alt="Configuración del Sistema" width="100%" />
-      <p><em>Panel de configuración completo</em></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📺 Sorteo en Vivo</h3>
-      <img src="https://imgur.com/BgHG3Yh.png" alt="Vista de Streaming" width="100%" />
-      <p><em>Vista pública para sorteos en tiempo real</em></p>
+      <b>🎯 Detalle de Rifa</b>
+      <p><em>Selector de números y compra</em></p>
     </td>
   </tr>
 </table>
 
-> **Nota**: Las capturas de pantalla del sistema completo están disponibles bajo solicitud. Contacta para obtener acceso a una demo en vivo.
+### Panel de Administración
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://imgur.com/UhfDEt5.png" alt="Dashboard Admin" width="100%" />
+      <b>📊 Dashboard</b>
+      <p><em>Estadísticas en tiempo real</em></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://imgur.com/ssQ24CB.png" alt="Gestión de Rifas" width="100%" />
+      <b>🎪 Gestión de Rifas</b>
+      <p><em>Creación y edición</em></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://imgur.com/aFa5lTc.png" alt="Gestión de Tickets" width="100%" />
+      <b>🎫 Gestión de Tickets</b>
+      <p><em>Verificación de pagos</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://imgur.com/XTKk7fE.png" alt="Sistema de Sorteos" width="100%" />
+      <b>🎲 Sistema de Sorteos</b>
+      <p><em>Animación de sorteos</em></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://imgur.com/gSWQVpr.png" alt="Configuración" width="100%" />
+      <b>⚙️ Configuración</b>
+      <p><em>Panel de configuración</em></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://imgur.com/BgHG3Yh.png" alt="Sorteo en Vivo" width="100%" />
+      <b>📺 Sorteo en Vivo</b>
+      <p><em>Vista de streaming público</em></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+> **Nota**: Screenshots del sistema completo disponibles bajo solicitud. Contacta para acceso a demo en vivo.
 
 ---
 
