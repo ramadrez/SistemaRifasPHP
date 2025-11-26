@@ -26,6 +26,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 ## 🚀 Características Principales
 
 ### ✨ Gestión Integral de Rifas
+
 - ✅ Creación, edición y administración completa de rifas
 - ✅ Sistema de categorías personalizables
 - ✅ Galería de hasta 5 imágenes por rifa
@@ -33,6 +34,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - ✅ Configuración de rangos de números y precios
 
 ### 💳 Sistema de Ventas
+
 - ✅ Compra de tickets con selección interactiva de números
 - ✅ Validación de disponibilidad en tiempo real
 - ✅ Múltiples métodos de pago configurables
@@ -40,6 +42,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - ✅ URLs seguras con hash único para cada ticket
 
 ### 🎯 Sistema de Sorteos
+
 - ✅ Modalidades flexibles de sorteo:
   - Entre todos los números del rango
   - Solo números vendidos y verificados
@@ -49,6 +52,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - ✅ Vista de streaming para sorteos públicos
 
 ### 📊 Panel de Administración
+
 - ✅ Dashboard con estadísticas en tiempo real
 - ✅ Gestión completa de tickets y pagos
 - ✅ Sistema de roles (Administrador y Operador)
@@ -57,6 +61,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - ✅ Configuración visual y funcional del sistema
 
 ### 🎨 Experiencia de Usuario
+
 - ✅ Diseño moderno y responsive (móvil, tablet, desktop)
 - ✅ Modo oscuro y claro con persistencia
 - ✅ Transiciones suaves y animaciones
@@ -64,6 +69,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - ✅ Lazy loading para optimización de carga
 
 ### 🔒 Seguridad Empresarial
+
 - ✅ Protección CSRF en todos los formularios
 - ✅ Prevención de SQL Injection
 - ✅ Protección XSS con sanitización de inputs
@@ -76,7 +82,61 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 
 ## 📸 Screenshots
 
-> **Nota**: Este es un repositorio de demostración. Las capturas de pantalla y funcionalidades completas están disponibles bajo solicitud.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏠 Página Principal</h3>
+      <img src="https://imgur.com/q6pblih.png" alt="Página Principal" width="100%" />
+      <p><em>Hero section, rifas destacadas y diseño responsive</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎰 Catálogo de Rifas</h3>
+      <img src="https://imgur.com/qOOG0rK.png" alt="Catálogo de Rifas" width="100%" />
+      <p><em>Listado completo con filtros y búsqueda</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎯 Detalle de Rifa</h3>
+      <img src="https://imgur.com/EiJKLS5.png" alt="Detalle de Rifa" width="100%" />
+      <p><em>Selector de números y formulario de compra</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📊 Dashboard Admin</h3>
+      <img src="https://imgur.com/UhfDEt5.png" alt="Dashboard Administrativo" width="100%" />
+      <p><em>Estadísticas en tiempo real y métricas</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎪 Gestión de Rifas</h3>
+      <img src="https://imgur.com/ssQ24CB.png" alt="Gestión de Rifas" width="100%" />
+      <p><em>Creación, edición y control de rifas</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎫 Gestión de Tickets</h3>
+      <img src="https://imgur.com/aFa5lTc.png" alt="Gestión de Tickets" width="100%" />
+      <p><em>Verificación de pagos y comprobantes</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎲 Sistema de Sorteos</h3>
+      <img src="https://imgur.com/XTKk7fE.png" alt="Sistema de Sorteos" width="100%" />
+      <p><em>Configuración y animación de sorteos</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Configuración</h3>
+      <img src="https://imgur.com/gSWQVpr.png" alt="Configuración del Sistema" width="100%" />
+      <p><em>Panel de configuración completo</em></p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📺 Sorteo en Vivo</h3>
+      <img src="https://imgur.com/BgHG3Yh.png" alt="Vista de Streaming" width="100%" />
+      <p><em>Vista pública para sorteos en tiempo real</em></p>
+    </td>
+  </tr>
+</table>
+
+> **Nota**: Las capturas de pantalla del sistema completo están disponibles bajo solicitud. Contacta para obtener acceso a una demo en vivo.
 
 ---
 
@@ -85,18 +145,21 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 ### 🌐 Frontend Público
 
 #### Página Principal
+
 - Hero section personalizable con gradientes y banners
 - Carrusel de rifas destacadas
 - Sección de rifas finalizadas con ganadores
 - Diseño adaptativo para todos los dispositivos
 
 #### Catálogo de Rifas
+
 - Listado completo de rifas disponibles
 - Filtros por categoría y estado
 - Búsqueda inteligente
 - Cards informativas con datos clave
 
 #### Detalle de Rifa
+
 - Galería de imágenes de alta calidad
 - Selector interactivo de números
 - Visualización de números vendidos/disponibles
@@ -105,6 +168,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - Sistema de carga de comprobantes
 
 #### Confirmación de Compra
+
 - Resumen completo del ticket
 - Información del cliente y números comprados
 - Estado del pago
@@ -116,6 +180,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 ### 🔐 Panel de Administración
 
 #### Dashboard
+
 - Estadísticas en tiempo real
 - Resumen de rifas activas, cerradas y finalizadas
 - Métricas de ventas e ingresos
@@ -124,12 +189,14 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - Accesos rápidos a módulos
 
 #### Gestión de Rifas
+
 - **Listado**: Vista completa de todas las rifas con filtros y búsqueda
 - **Creación**: Formulario completo con configuración de números, precios, imágenes y fechas
 - **Edición**: Actualización de rifas con validaciones de seguridad
 - **Control de estados**: Activación, cierre y finalización de rifas
 
 #### Gestión de Tickets
+
 - Listado completo con filtros por estado
 - Estadísticas de tickets (pendientes, verificados, denegados)
 - Visualización de comprobantes de pago
@@ -138,6 +205,7 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - Información detallada de clientes
 
 #### Sistema de Sorteos
+
 - Selección de rifa a sortear
 - Configuración de modalidad de sorteo
 - Definición de cantidad de ganadores
@@ -147,13 +215,16 @@ Ideal para empresas, organizaciones y emprendedores que buscan profesionalizar s
 - Registro automático de ganadores
 
 #### Gestión de Estados
+
 - Vista general de todas las rifas
 - Estadísticas globales
 - Cambio masivo de estados
 - Visualización de disponibilidad
 
 #### Configuración del Sistema
+
 Acceso exclusivo para administradores con pestañas:
+
 - **General**: Nombre del sitio, contacto, textos personalizables
 - **Apariencia**: Logo, banner, colores, gradientes, transparencias
 - **Sistema**: Límites de upload, días de verificación, notificaciones
@@ -161,6 +232,7 @@ Acceso exclusivo para administradores con pestañas:
 - **Email (SMTP)**: Configuración de servidor, credenciales, pruebas de envío
 
 #### Métodos de Pago
+
 - Creación y edición de métodos de pago
 - Activación/desactivación de métodos
 - Configuración de instrucciones de pago
@@ -170,6 +242,7 @@ Acceso exclusivo para administradores con pestañas:
 ## 👤 Sistema de Roles
 
 ### 🔑 Administrador
+
 - Acceso completo al sistema
 - Gestión de usuarios y roles
 - Configuración total del sistema
@@ -178,6 +251,7 @@ Acceso exclusivo para administradores con pestañas:
 - Control de métodos de pago
 
 ### 👔 Operador
+
 - Gestión de rifas
 - Administración de tickets
 - Realización de sorteos
@@ -202,11 +276,13 @@ Acceso exclusivo para administradores con pestañas:
 ## 🧩 Stack Tecnológico
 
 ### Backend
+
 - **PHP 7.4+** con orientación a objetos
 - **MySQL 5.7+** / **MariaDB 10.2+**
 - **PDO** para conexiones seguras
 
 ### Frontend
+
 - **HTML5** semántico
 - **CSS3** con diseño moderno
 - **JavaScript ES6+**
@@ -214,6 +290,7 @@ Acceso exclusivo para administradores con pestañas:
 - **Font Awesome** para iconografía
 
 ### Funcionalidades Avanzadas
+
 - **Variables de entorno** (.env) para configuración
 - **Sistema de triggers** en base de datos
 - **Vistas optimizadas** para estadísticas
@@ -265,6 +342,7 @@ Este repositorio es **solo demostrativo** para fines de portafolio. El código f
 ### 📩 ¿Cómo obtener el sistema completo?
 
 Si deseas:
+
 - ✅ **Comprar el sistema completo** con código fuente
 - 💻 **Solicitar una demo en vivo** del sistema
 - 🛠️ **Contratar instalación y configuración** personalizada
@@ -274,8 +352,9 @@ Si deseas:
 ### 📧 Contáctame:
 
 > **Envíame un mensaje** para obtener más información, solicitar una demo personalizada o discutir los detalles de compra.
-> 
+>
 > Los interesados recibirán acceso a:
+>
 > - ✨ Demo en vivo totalmente funcional
 > - 📚 Documentación técnica completa
 > - 💾 Código fuente completo
