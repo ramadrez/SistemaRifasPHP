@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.3+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -194,8 +194,8 @@ Acceso exclusivo para administradores:
 
 ### Backend
 
-- **PHP 7.4+** con orientación a objetos
-- **MySQL 5.7+** / **MariaDB 10.2+**
+- **PHP 8.3+** con orientación a objetos
+- **MySQL 8.0+** / **MariaDB 12+**
 - **PDO** para conexiones seguras
 
 ### Frontend
@@ -223,7 +223,6 @@ Solución **empresarial lista para producción** con arquitectura escalable, có
 **Ideal para:**
 
 - 🏢 Empresas y organizaciones corporativas
-- 🎪 ONGs para recaudación de fondos
 - 💼 Emprendedores del sector de rifas
 - 🏆 Eventos y promociones comerciales
 - 📱 Creadores de contenido y comunidades
@@ -249,16 +248,16 @@ Este repositorio es **solo demostrativo** para fines de portafolio. El código f
 
 ### 📧 Contáctame:
 
-> **Envíame un mensaje** para obtener más información, solicitar una demo personalizada o discutir los detalles de compra.
->
-> Los interesados recibirán acceso a:
->
-> - ✨ Demo en vivo totalmente funcional
-> - 📚 Documentación técnica completa
-> - 💾 Código fuente completo
-> - 🛠️ Guía de instalación detallada
-> - 🎯 Soporte técnico durante la instalación
-> - 🔄 Actualizaciones y mejoras futuras
+ **Envíame un correo o un mensaje** para obtener más información, solicitar una demo personalizada o discutir los detalles de compra.
+
+ Los interesados recibirán acceso a:
+
+ - ✨ Demo en vivo totalmente funcional
+ - 📚 Documentación técnica completa
+ - 💾 Código fuente completo
+ - 🛠️ Guía de instalación detallada
+ - 🎯 Soporte técnico durante la instalación
+ - 🔄 Actualizaciones y mejoras futuras
 
 ---
 
