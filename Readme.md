@@ -266,4 +266,8 @@ Este repositorio es **solo demostrativo** para fines de portafolio. El código f
 
 ### 🌟 Sistema Profesional • Seguro • Escalable • Listo para Producción 🌟
 
+<img src="https://imgur.com/SBaKBq4.png">
+
 </div>
+
+
