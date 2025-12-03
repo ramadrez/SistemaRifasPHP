@@ -160,7 +160,7 @@ Acceso exclusivo para administradores:
       <p><em>Creación y edición</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="https://imgur.com/aFa5lTc.png" alt="Gestión de Tickets" width="100%" />
+      <img src="https://imgur.com/OOCLRjA.png" alt="Gestión de Tickets" width="100%" />
       <b>🎫 Gestión de Tickets</b>
       <p><em>Verificación de pagos</em></p>
     </td>
